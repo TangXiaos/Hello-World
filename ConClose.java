@@ -21,8 +21,8 @@ import java.awt.event.*;
 
         String driver = "com.mysql.jdbc.Driver";
         String url = "jdbc:mysql://localhost:3366/study";    //连接本机默认数据库
-        String user = "root";
-        String pass = "123";
+        String user = "***";
+        String pass = "***";
 
 
         private Connection con;
